@@ -1,0 +1,35 @@
+Electrónica (analógica)
+Electrónica (digital) 
+Arduino
+ESP8266
+Raspberry-pi
+LoRa
+Diseño CAD 
+Diseño vectorial
+Fabricación impresora 3d
+Construcción drones de carreras
+Diseño y fabricación PCB
+Moldes de silicona y casting
+Escaneo 3d con kinect
+FPGA
+Redes y seguridad informática
+Visión artificial, reconocimiento facial.
+Fabricación arcade
+Fabricación CNC para el taller
+LINUX 
+Phyton
+Sensores 
+Actuadores
+Domótica
+Uso de herramientas:
+	Soldador (por puntos, estaño, TIG)
+	Tester
+	Osciloscopio
+	Software de CAM
+	Ploter de corte
+	Cortadora laser epilog
+	Impresora 3d
+	CNC porex 4 ejes (pendiente ensamblar y comprar el software)
+	CNC madera (pendiente de comparar y ensamblar la maquina)
+	Curso de github
+
